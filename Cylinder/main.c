@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("This is a new test!\n");
+    printf("This is a new test again!\n");
     return 0;
 }
