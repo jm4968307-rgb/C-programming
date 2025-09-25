@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1758826665 source:c:\users\dell\onedrive\documents\projects\introduction to programming\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1758824474 source:c:\users\dell\onedrive\documents\projects\introduction to programming\test2.c
+
+1758824710 source:c:\users\dell\onedrive\documents\projects\introduction to programming\test.c
+	<stdio.h>
+	<stdlib.h>
+
